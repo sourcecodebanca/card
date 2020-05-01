@@ -1,2 +1,3 @@
 http://isoftage.com
-# card
+# ban ca
+source game ban ca
