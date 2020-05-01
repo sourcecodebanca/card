@@ -1,0 +1,24 @@
+{
+  "short_name": "Ca69Club",
+  "name": "Ca69Club",
+  "icons": [
+    {
+      "src": "images/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "gcm_sender_id": "829283418307",
+  "short_name": "Ca69Club",
+  "start_url":"index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "orientation": "landscape"
+  "scope": "",
+  "theme_color": "#3367D6"
+}

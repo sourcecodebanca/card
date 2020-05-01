@@ -1,0 +1,34 @@
+
+effect_lixi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 351 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 116, 132
+  orig: 116, 132
+  offset: 0, 0
+  index: -1
+Layer-35-copy
+  rotate: false
+  xy: 637, 362
+  size: 116, 132
+  orig: 116, 132
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 136
+  size: 358, 358
+  orig: 358, 358
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 362, 221
+  size: 273, 273
+  orig: 273, 273
+  offset: 0, 0
+  index: -1
